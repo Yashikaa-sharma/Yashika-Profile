@@ -1,0 +1,69 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+section#home{
+	background-color: E7C6FF;
+	color: white;
+}
+.navbar{
+	background-color: #3a5a40;
+}
+.btn{
+	background-color: #000814;
+	color:white;
+}
+.btn:hover{
+	background-color: white;
+	transition: 0.5s;
+	color: black;
+}
+.nav-link{
+	color: black;
+	font-size: 1rem;
+	font-weight: 700;
+	cursor: pointer;
+	text-decoration: none;
+}
+.nav-link:hover{
+	color: white;
+	background-color: black;
+}
+.navbar-brand{
+	font-size: 1.25rem;
+	font-weight: 800;
+	color: black;
+	cursor: pointer;
+	text-decoration: none;
+}
+.bt2{
+	height: 55px;
+	width: 138px;
+	background-color: black;
+	color: white;
+	outline: none;
+	border: 1px solid black;
+	font-weight: bold;
+	border-radius: 5px;
+}
+.bt2:hover{
+	background-color: white;
+	transition: 0.5s;
+	color: black;
+}
+
+
+.rounded-circle{
+	height: 23em;
+}
+
+.footer{
+	background-color: #000814;
+}	
+.icon{
+	color: #000814;
+}
+.button{
+	background-color: #000814;
+}
